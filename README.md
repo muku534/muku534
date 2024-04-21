@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Portfolio builder website**
 
-- 🌱 I’m currently learning **React Native, Next.js, Native android.**
+- 🌱 I’m currently learning **React Native, Native android, Next.js.**
 
 - 👨‍💻 All of my projects are available at [https://portfoliomukesh.vercel.app](https://portfoliomukesh.vercel.app)
 
