@@ -17,6 +17,9 @@
 <a href="https://www.linkedin.com/in/mukesh-prajapati-a6a670235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukesh prajapati" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mr.mukesh_534" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.mukesh" height="30" width="40" /></a>
 <a href="https://youtube.com/@byteops_0412?si=55YFhr-TStdzWSw7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ByteOps" height="30" width="40" /></a>
+<a href="https://portfoliomukesh.vercel.app" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio" height="30" width="100" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
